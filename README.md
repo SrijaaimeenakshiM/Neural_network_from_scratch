@@ -87,8 +87,9 @@ This is a synthetically generated dataset commonly used for testing classificati
 ```plaintext
 Neural_network_from_scratch/
 │
+├── README.md                                            # Project documentation
 ├── neural_network_forward_backward_from_scratch.ipynb   # Jupyter Notebook with full neural network implementation
-└── README.md                                            # Project documentation
+
 ```
 
 
